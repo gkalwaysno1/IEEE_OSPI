@@ -1,5 +1,3 @@
-# IEEE_OSPI
-
 # Multilabel Disease Prediction Model
 This project aims to develop a multilabel disease prediction model using a set of features from multiple datasets. 
 The primary requirements for this project include exploratory data analysis, implementation of neural networks in either PyTorch or TensorFlow, 
